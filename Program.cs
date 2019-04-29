@@ -46,11 +46,10 @@ namespace Entity_Framework_Core_Template
             //Querying the Db
             using (var context = new NameContext())
             {
-                var Datas = context.class1.ToList(); 
-                foreach (var Data in Datas)
+                var Data = context.class1.ToList(); 
+                foreach (var Raw in Data)
                 {
-                    System.Console.WriteLine(Data.Class1id + " " + Data.name);
-                    
+                    System.Console.WriteLine(Raw.Class1id + " " + Raw.name);
                 } 
             }
 
