@@ -1,0 +1,11 @@
+c:\Users\PC\Desktop\Entity Framework Core Template\obj\Debug\netcoreapp2.2\Entity Framework Core Template.csprojAssemblyReference.cache
+c:\Users\PC\Desktop\Entity Framework Core Template\obj\Debug\netcoreapp2.2\Entity Framework Core Template.csproj.CoreCompileInputs.cache
+c:\Users\PC\Desktop\Entity Framework Core Template\obj\Debug\netcoreapp2.2\Entity Framework Core Template.AssemblyInfoInputs.cache
+c:\Users\PC\Desktop\Entity Framework Core Template\obj\Debug\netcoreapp2.2\Entity Framework Core Template.AssemblyInfo.cs
+C:\Users\PC\Desktop\Entity Framework Core Template\bin\Debug\netcoreapp2.2\Entity Framework Core Template.deps.json
+C:\Users\PC\Desktop\Entity Framework Core Template\bin\Debug\netcoreapp2.2\Entity Framework Core Template.runtimeconfig.json
+C:\Users\PC\Desktop\Entity Framework Core Template\bin\Debug\netcoreapp2.2\Entity Framework Core Template.runtimeconfig.dev.json
+c:\Users\PC\Desktop\Entity Framework Core Template\bin\Debug\netcoreapp2.2\Entity Framework Core Template.dll
+c:\Users\PC\Desktop\Entity Framework Core Template\bin\Debug\netcoreapp2.2\Entity Framework Core Template.pdb
+c:\Users\PC\Desktop\Entity Framework Core Template\obj\Debug\netcoreapp2.2\Entity Framework Core Template.dll
+c:\Users\PC\Desktop\Entity Framework Core Template\obj\Debug\netcoreapp2.2\Entity Framework Core Template.pdb
